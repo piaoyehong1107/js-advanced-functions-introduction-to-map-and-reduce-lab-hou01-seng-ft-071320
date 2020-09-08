@@ -17,7 +17,7 @@ function reduceToAllTrue(sourceArray){
   return sourceArray.reduce( (ele)=> {if (ele) {return true} else {return false}});
 }
 function reduceToAnyTrue(sourceArray){
-  
+   return sourceArray.reduce( (ele)=> {if (ele) {return true} else {return false}});
 }
 
 
