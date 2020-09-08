@@ -8,7 +8,7 @@ function mapToDouble(sourceArray){
   return sourceArray.map(ele=>{return ele*2})
 }
 function mapToSquare(sourceArray){
-  
+  return sourceArray.map(ele=>{return ele**2})
 }
 function reduceToTotal(sourceArray, startingPoint){
   
