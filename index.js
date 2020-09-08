@@ -2,7 +2,7 @@ function mapToNegativize(sourceArray){
   return sourceArray.map(ele=>{return ele*(-1)})
 }
 function mapToNoChange(sourceArray){
-  return mapToNegativize(mapToNegativize(sourceArray))
+  return sourceArray
 }
 function mapToDouble(sourceArray){
   
