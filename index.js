@@ -10,7 +10,7 @@ function mapToDouble(sourceArray){
 function mapToSquare(sourceArray){
   
 }
-function mapToSquare(sourceArray){
+function reduceToTotal(sourceArray, startingPoint){
   
 }
 function mapToSquare(sourceArray){
