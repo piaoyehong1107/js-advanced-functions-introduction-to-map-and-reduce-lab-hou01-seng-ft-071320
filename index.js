@@ -7,7 +7,7 @@ function mapToNoChange(sourceArray){
 function mapToDouble(sourceArray){
   
 }
-function mapToNegativize(sourceArray){
+function mapToSquare(sourceArray){
   
 }
 
