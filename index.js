@@ -1,5 +1,5 @@
 function mapToNegativize(sourceArray){
-  
+  sourceArray.map(ele=>{ele*(-1)})
 }
 function mapToNoChange(sourceArray){
   
